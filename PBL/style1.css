@@ -5,8 +5,13 @@ body, h1, h2, h3, h4, h5, h6, p, img {
   }
   
   body {
-    background-image: linear-gradient(to right, rgb(6, 6, 39), rgb(51, 10, 51), rgb(51, 7, 51), black );
+/*     background-image: linear-gradient(to right, rgb(6, 6, 39), rgb(51, 10, 51), rgb(51, 7, 51), black );
+    font-family: Arial, sans-serif; */
+    background-image: url(/trytry.jpg);
+    background-attachment: fixed;
     font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   header {
